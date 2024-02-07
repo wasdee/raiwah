@@ -18,7 +18,7 @@ Add Raiwah to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  raiwah: ^1.0.0
+  raiwah: ^1.0.1
 ```
 Then, run the following command to download the package:
 
