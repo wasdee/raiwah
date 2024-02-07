@@ -3,7 +3,7 @@
 # RaiWah(ไร่วา)
 A dart library measure area land in Thai unit.
 
-![cover](raiwah_cover.jpg)
+![cover](https://github.com/wasdee/raiwah/blob/main/raiwah_cover.jpg?raw=true)
 
 ## Features
 - Convert Rai, Ngan, and Square Wah to international unit freely and visversa  with the same interface as  [`units_converter`](https://github.com/ferraridamiano/units_converter) package.
